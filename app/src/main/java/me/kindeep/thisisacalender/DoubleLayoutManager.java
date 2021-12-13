@@ -7,8 +7,6 @@ import android.util.Log;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-// Used help from: https://stackoverflow.com/questions/51499834/how-to-tell-recyclerview-to-start-at-specific-item-position
-
 public class DoubleLayoutManager extends LinearLayoutManager {
 
 
